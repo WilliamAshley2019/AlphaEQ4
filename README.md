@@ -71,7 +71,7 @@ This version adds parameter smoothing to eliminate zipper noise, 2× oversamplin
 ## Installation
 
 ### Requirements
-- Windows 10/11 (x64) or macOS 10.13+
+- Windows 10/11 (x64) (tested in windows 25h2)
 - A VST3-compatible DAW (Ableton Live, Reaper, Cubase, Studio One, etc.)  Tested in FL Studio 25. 
 - No additional dependencies or runtime libraries required
 
