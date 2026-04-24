@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![JUCE](https://img.shields.io/badge/Built%20with-JUCE%208.0.12-blue)](https://juce.com)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20-lightgrey)]()
-[![Format](https://img.shields.io/badge/Format-VST3%20%7C%20Standalone-orange)]()
+[![Format](https://img.shields.io/badge/Format-VST3%20%7C%20-orange)]()
 
 ---
 
