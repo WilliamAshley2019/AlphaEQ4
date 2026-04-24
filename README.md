@@ -11,7 +11,7 @@
 
 ## About
 
-AlphaEQ4 is the fourth iteration of the AlphaEQ series — a collection of audio plugins inspired by the character and workflow of classic analogue programme equalisers such as the API 550B. The goal is not a forensic emulation, but a plugin that *feels* like vintage hardware: stepped frequency and gain controls, proportional Q behaviour, warm saturation, and a no-nonsense four-band layout that encourages fast, musical decisions rather than endless tweaking.
+AlphaEQ4 is the fourth iteration of the AlphaEQ series — a collection of audio plugins inspired by the character and workflow of classic analogue programme equalisers such as the API 550. The goal is not a forensic emulation, but a plugin that *feels* like vintage hardware: stepped frequency and gain controls, proportional Q behaviour, warm saturation, and a no-nonsense four-band layout that encourages fast, musical decisions rather than endless tweaking.
 
 This version adds parameter smoothing to eliminate zipper noise, 2× oversampling around the saturation stage, a real-time FFT spectrum analyser display, and a reworked metallic faceplate aesthetic that more closely echoes the gunmetal look of the original hardware units.
 
